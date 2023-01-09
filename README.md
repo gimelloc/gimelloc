@@ -5,7 +5,7 @@
 ### About me:
 - 💻 I’m Front-end Developer
 - 🧠 I’m currently learning Next.js
-- 💬 I love playing valorant and watching movies and series
+- 💜 I love playing valorant and watching movies and series
 
 ### 
  <div>
