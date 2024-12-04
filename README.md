@@ -3,9 +3,10 @@
 #
 
 ### About me:
+- 👩🏽‍💻 24 years old
 - 💻 I’m Front-end Developer
-- 🧠 I’m currently learning Next.js
-- 💜 I love playing valorant and watching movies and series
+- 🧠 Graduated in web systems
+- 💜 I love games, healthy living and gym
 
 ### 
  <div>
